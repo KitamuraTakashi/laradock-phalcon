@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Phalcon template
+app/cache/
+app/config/development/
+
+app/vendor/
+
+.idea
